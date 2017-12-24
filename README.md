@@ -4,7 +4,7 @@ On any OS you need Truffle
 npm install -g truffle
 and then clone this repository
 
-git clone https://github.com/tomw1808/truffle_eth_class1.git
+git clone
 and run
 
 bower install
